@@ -3,6 +3,12 @@
 I am a mobile app developer, working mainly in iOS development with Swift. I love using the latest iOS coding technologies to write beautifully-functioning, clean code with attention to detail.
 
 <br/>
+
+
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yager-j&exclude_repo=jahai-vs-jedek,Models-of-linguistic-convergence-in-a-hunter-gatherer-community,my-portfolio) 
 
 <img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
@@ -16,6 +22,7 @@ I am a mobile app developer, working mainly in iOS development with Swift. I lov
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+
 <br/>
 <br/>
 
