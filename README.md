@@ -21,7 +21,7 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 <br/>
 <br/>
 
-# My projects
+# Previous projects
 
 <br/>
 
