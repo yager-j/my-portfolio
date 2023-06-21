@@ -16,4 +16,5 @@
 
 # My blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automated design token translation with Style Dictionary: A guide for non-coders](https://medium.com/@joyager/automated-design-token-translation-with-style-dictionary-2a8a3eab7e7c?source=rss-97bdfb24eaa1------2)
 <!-- BLOG-POST-LIST:END -->
