@@ -13,7 +13,7 @@
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
-
+<br>
 # My blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Automated design token translation with Style Dictionary: A guide for non-coders](https://medium.com/@joyager/automated-design-token-translation-with-style-dictionary-2a8a3eab7e7c?source=rss-97bdfb24eaa1------2)
