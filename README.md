@@ -1,4 +1,4 @@
-# 👋  Hello! I'm Jo
+# 👋     Hello! I'm Jo
 
 I am a mobile app developer, working mainly in iOS development with Swift. I love using the latest iOS coding technologies to write beautifully-functioning, clean code with attention to detail.
 
