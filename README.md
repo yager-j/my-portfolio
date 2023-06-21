@@ -1,4 +1,6 @@
-# Jo Yager - iOS developer
+# 💻 Jo Yager
+
+I am a mobile app developer, working mainly in iOS development with Swift. I love using the latest iOS coding technologies to write beautifully-functioning, clean code with attention to detail.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yager-j&exclude_repo=jahai-vs-jedek,Models-of-linguistic-convergence-in-a-hunter-gatherer-community,my-portfolio) 
 
