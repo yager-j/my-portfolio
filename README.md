@@ -28,12 +28,12 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 ## Body Confident Mums
 Journaling and meditation app helping mothers improve body image
 
-<div style="margin-top:100px; display:flex;">
-  <div style="flex:1; padding: 10px;"><img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/></div>
-  <div style="flex:1; padding: 10px;"><img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/></div>
-  <div style="flex:1; padding: 10px;"><img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/></div>
-  <div style="flex:1; padding: 10px;"><img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/></div>
-  <div style="flex:1; padding: 10px;"><img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/></div>
+<div style="margin-top:100px; display:flex; column-gap: 100px">
+  <img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img align="left" width=100 src="images/JournalingSpeechToText-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
 </div>
 
 <br/><br/>
