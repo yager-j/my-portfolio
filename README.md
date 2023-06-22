@@ -22,6 +22,7 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 <br/>
 
 # Previous projects
+
 ![Test]([image link](https://github.com/yager-j/my-portfolio/blob/main/images/Untitled%20design%20(33).png))
 
 
