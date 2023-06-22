@@ -23,12 +23,9 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 
 # Previous projects
 
-<div>
-  <img align="left" width=100 src="images/andrea-de-santis-zwd435-ewb4-unsplash.jpg" alt="Alt text" title="Optional title">
-  <img align="left" width=100 src="ThankYouBody-iPhone14Pro.mp4" alt="Alt text" title="Optional title">
-  
-</div>
 
+
+https://github.com/yager-j/my-portfolio/assets/50547621/5fffd354-4469-4ea3-9a6a-4673bc2085aa
 
 
 <br/>
