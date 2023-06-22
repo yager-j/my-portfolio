@@ -1,22 +1,21 @@
 # 👋     Hello! I'm Jo
 
-I am a mobile app developer, working in iOS development with Swift. I love using the latest iOS coding technologies to write beautifully-functioning, clean code with attention to detail.
+I'm a mobile app developer, working in iOS development with Swift. I love using the latest iOS coding technologies to write beautifully-functioning, clean code with attention to detail.
 
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yager-j&exclude_repo=jahai-vs-jedek,Models-of-linguistic-convergence-in-a-hunter-gatherer-community,my-portfolio) 
 
-<img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
+<br/>
 
-<img align="left" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-
-<img align="left" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
-
-<img align="left" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
-
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<div>
+  <img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
+  <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img align="left" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+  <img align="left" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+</div>
 
 <br/>
 <br/>
@@ -27,14 +26,14 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 During my internship at ustwo Nordics I worked with a live production app, building new features, rewriting old features to use modern Swift technology, and doing maintenance.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
-  <img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/Listen10minRecordings.png" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/JournalTabCategories.png" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/JournalPromptsBeThankful.png" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/JournalingSpeechToText-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/BeKindChatbot-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/SkeletonScreen.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/YourMileage.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/MilageInput.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/Success.png" alt="Alt text" title="Optional title"/>
 </div>
+
+<br/>
+<br/>
 
 ## Body Confident Mums
 Journaling and meditation app helping mothers with mindfulness and body image
