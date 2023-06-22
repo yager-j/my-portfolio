@@ -23,7 +23,7 @@ I'm a mobile app developer, working in iOS development with Swift. I love using 
 # Previous projects
 
 ## Internship
-During my internship at ustwo Nordics I worked with a live production app, building new features, rewriting old features to use modern Swift technology, and doing maintenance.
+During my internship at ustwo Nordics I worked with the live iOS app, building new features in Swift using SwiftUI, rewriting old features to use modern Swift technology, and doing maintenance.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/SkeletonScreen.png" alt="Alt text" title="Optional title"/>
@@ -36,7 +36,7 @@ During my internship at ustwo Nordics I worked with a live production app, build
 <br/>
 
 ## Body Confident Mums
-Journaling and meditation app helping mothers with mindfulness and body image
+Native iOS journaling and meditation app MVP built using SwiftUI and Firebase, aimed at helping mothers with mindfulness and body image.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
