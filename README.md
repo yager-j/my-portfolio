@@ -24,6 +24,11 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 # Previous projects
 
 ![Alt text]([image link](https://github.com/yager-j/my-portfolio/blob/main/images/Untitled%20design%20(33).png))
+https://github.com/yager-j/my-portfolio/blob/main/images/Untitled%20design%20(33).png
+
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+
+![My Image](images/my-image.jpg)
 
 
 <br/>
