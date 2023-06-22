@@ -23,24 +23,32 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 
 # Previous projects
 
-## 
-
-## Body Confident Mums
-Journaling and meditation app helping mothers improve body image
+## Internship
+During my internship at ustwo Nordics I worked with a live production app, building new features, rewriting old features to use modern Swift technology, and doing maintenance.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
-  <img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-  <img align="left" width=100 src="images/JournalingSpeechToText-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-  <img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-  <img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-  <img align="left" width=100 src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/Listen10minRecordings.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/JournalTabCategories.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/JournalPromptsBeThankful.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/JournalingSpeechToText-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/BeKindChatbot-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
 </div>
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/>
+## Body Confident Mums
+Journaling and meditation app helping mothers with mindfulness and body image
+
+<div style="margin-top:100px; display:flex; column-gap: 100px">
+  <img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/Listen10minRecordings.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/JournalTabCategories.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/JournalPromptsBeThankful.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/JournalingSpeechToText-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/BeKindChatbot-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+</div>
+
 <br/>
 
 # My blog posts
