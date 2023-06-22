@@ -23,14 +23,8 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 
 # Previous projects
 
-![Alt text]([image link](https://github.com/yager-j/my-portfolio/blob/main/images/Untitled%20design%20(33).png))
-https://github.com/yager-j/my-portfolio/blob/main/images/Untitled%20design%20(33).png
 
-<img align="left" width=30 src="images/andrea-de-santis-zwd435-ewb4-unsplash.jpg" alt="Alt text" title="Optional title">
-
-![My Image](images/my-image.jpg)
-
-![My Image](images/andrea-de-santis-zwd435-ewb4-unsplash.jpg)
+<img align="left" width=100 src="images/andrea-de-santis-zwd435-ewb4-unsplash.jpg" alt="Alt text" title="Optional title">
 
 
 <br/>
