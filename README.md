@@ -22,6 +22,9 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 <br/>
 
 # Previous projects
+
+## 
+
 ## Body Confident Mums
 Journaling and meditation app helping mothers improve body image
 
