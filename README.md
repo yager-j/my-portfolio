@@ -22,7 +22,6 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 <br/>
 
 # Previous projects
-![Uploading andrea-de-santis-zwd435-ewb4-unsplash.jpg…]()
 
 
 <br/>
