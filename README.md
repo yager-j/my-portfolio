@@ -30,7 +30,7 @@ https://github.com/yager-j/my-portfolio/blob/main/images/Untitled%20design%20(33
 
 ![My Image](images/my-image.jpg)
 
-![My Image](images/Untitled design (33).png)
+![My Image](images/andrea-de-santis-zwd435-ewb4-unsplash.jpg)
 
 
 <br/>
