@@ -23,9 +23,7 @@ I am a mobile app developer, working in iOS development with Swift. I love using
 
 # Previous projects
 
-
-
-https://github.com/yager-j/my-portfolio/assets/50547621/5fffd354-4469-4ea3-9a6a-4673bc2085aa
+![Game Process](https://github.com/Faizun-Faria/Thief-Robber-Landlord-Police/blob/main/Preview/gif_english.gif)
 
 
 <br/>
