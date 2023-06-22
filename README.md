@@ -52,7 +52,7 @@ I created a native iOS journaling and meditation app MVP built using SwiftUI and
 <br/>
 
 ## Trivia app
-As part of a group project during my 2 year app developer education at KYH, myself and two classmates created a simple trivia native iOS app using SwiftUI and the TriviaDB API.
+As part of a group project, I created a simple trivia native iOS app with 2 other classmates using SwiftUI and the TriviaDB API.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/StartScreen.gif" alt="Alt text" title="Optional title"/>
