@@ -22,8 +22,8 @@ I'm a mobile app developer, working in iOS development with Swift. I love using 
 
 # Previous projects
 
-## Internship
-During my internship at ustwo Nordics I worked with the live iOS app, building new features in Swift using SwiftUI, rewriting old features to use modern Swift technology, and doing maintenance.
+## Internship at ustwo Nordics
+During my internship at ustwo Nordics I worked as part of a cross-functional product team developing a large-scale live iOS app, building new features in Swift using SwiftUI, rewriting old features to use modern Swift technology including SwiftUI, Combine and MVVM, and contributing to app maintenance.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/SkeletonScreen.png" alt="Alt text" title="Optional title"/>
