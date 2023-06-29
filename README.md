@@ -36,7 +36,7 @@ During my internship at ustwo Nordics I worked as part of a cross-functional pro
 <br/>
 
 ## Body Confident Mums
-I created a native iOS journaling and meditation app MVP built using SwiftUI and Firebase, aimed at helping mothers with mindfulness and body image.
+As part of a student project in cooperation with a body positivity not-for-profit, I created a native iOS journaling and meditation app MVP built using SwiftUI and Firebase, aimed at helping mothers with mindfulness and body image.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
