@@ -1,6 +1,6 @@
 # 👋     Hello! I'm Jo
 
-I'm a mobile app developer, working in iOS development with Swift. I use the latest iOS coding technologies to write beautifully-functioning, clean code with attention to detail.
+I'm a mobile app developer specialising in iOS development. I use the latest iOS coding technologies to write beautifully-functioning, clean code with attention to detail.
 
 <br/>
 
