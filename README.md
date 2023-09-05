@@ -23,7 +23,7 @@ I'm a mobile app developer specialising in iOS development. I'm passionate about
 # Previous projects
 
 ## Internship at ustwo Nordics
-During my internship at ustwo Nordics I worked as part of a cross-functional product team developing a large-scale live iOS app, building new features in Swift using SwiftUI, rewriting old features to use modern Swift technology including SwiftUI, Combine and MVVM, and contributing to app maintenance.
+During my internship at ustwo Nordics I worked as part of a cross-functional product team developing a large-scale live iOS app. I built new features in Swift using SwiftUI, rewrote existing features to use modern Swift technology including SwiftUI, Combine and MVVM, and contributed to app maintenance.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/SkeletonScreen.png" alt="Alt text" title="Optional title"/>
@@ -36,7 +36,7 @@ During my internship at ustwo Nordics I worked as part of a cross-functional pro
 <br/>
 
 ## Body Confident Mums
-As part of a student project in cooperation with a body positivity not-for-profit, I created a native iOS journaling and meditation app MVP built using SwiftUI and Firebase, aimed at helping mothers with mindfulness and body image.
+I created a native iOS app MVP using SwiftUI and Firebase for Australian body positivity organisation The Embrace Collective. The app aims to help mothers relate to their bodies in a positive way using mindfulness and journaling. This was a solo student project completed during my studies.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
@@ -52,7 +52,7 @@ As part of a student project in cooperation with a body positivity not-for-profi
 <br/>
 
 ## Trivia app
-As part of a group project, I created a simple trivia native iOS app with two classmates using SwiftUI, the TriviaDB API and Core Data.
+As part of a group student project, I created a simple trivia app for iOS with two classmates using the TriviaDB API and Core Data.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/StartScreen.gif" alt="Alt text" title="Optional title"/>
