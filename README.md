@@ -52,7 +52,7 @@ I created a native iOS app MVP using SwiftUI and Firebase for Australian body po
 <br/>
 
 ## Trivia app
-As part of a group student project, I created a simple trivia app for iOS with two classmates using the TriviaDB API and Core Data.
+As part of a group student project during my studies, I created a simple trivia app for iOS with two classmates using the TriviaDB API and Core Data.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/StartScreen.gif" alt="Alt text" title="Optional title"/>
