@@ -1,6 +1,6 @@
 # 👋     Hello! I'm Jo
 
-I'm a mobile app developer specialising in iOS development. I'm passionate about using the latest technologies to write beautifully-functioning, clean code with attention to detail to create impactful user experiences.
+I'm a mobile app developer specialising in iOS development. I'm passionate about using the latest technologies to write beautifully-functioning, clean code to create impactful user experiences.
 
 <br/>
 
