@@ -24,6 +24,7 @@ I am currently building a native iOS MVP for iPhone and iPad, for a circularity 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/GG-screen.gif" alt="Alt text" title="Optional title"/>
   <img width=13% src="images/GG-scan.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/GG-AR.gif" alt="Alt text" title="Optional title"/>
 </div>
 
 <br/>
