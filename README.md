@@ -11,16 +11,25 @@ I'm an iOS developer with a linguistics background. I'm passionate about using t
 <div>
   <img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
   <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img align="left" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
-  <img align="left" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
 </div>
 
 <br/>
 <br/>
 
 # Previous projects
+
+## Circularity app MVP 
+I am currently building an MVP for a circularity startup in Malmö using SwiftUI, VisionKit, Firebase and MVVM.
+
+<div style="margin-top:100px; display:flex; column-gap: 100px">
+  <img width=13% src="images/SkeletonScreen.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/YourMileage.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/MilageInput.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/Success.png" alt="Alt text" title="Optional title"/>
+</div>
+
+<br/>
+<br/>
 
 ## Internship at ustwo Nordics
 During my internship at ustwo Nordics I worked as part of a cross-functional product team developing a large-scale live iOS app. I built new features in Swift using SwiftUI, rewrote existing features to use modern Swift technology including SwiftUI, Combine and MVVM, and contributed to app maintenance.
