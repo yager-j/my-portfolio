@@ -19,7 +19,7 @@ I'm an iOS developer with a linguistics background. I'm passionate about using t
 # Previous projects
 
 ## Circularity app MVP 
-I am currently building an MVP for a circularity startup in Malmö using SwiftUI, VisionKit, Firebase and MVVM.
+I am currently building a native iOS MVP for iPhone and iPad, for a circularity startup in Malmö using SwiftUI, VisionKit, Firebase and MVVM.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/GG-screen.gif" alt="Alt text" title="Optional title"/>
