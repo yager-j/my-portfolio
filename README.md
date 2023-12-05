@@ -25,6 +25,8 @@ I am currently building an MVP app for iPhone and iPad, for a circularity startu
   <img width=13% src="images/GG-screen.gif" alt="Alt text" title="Optional title"/>
   <img width=13% src="images/GG-scan.gif" alt="Alt text" title="Optional title"/>
   <img width=13% src="images/GG-AR.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/Falling-toys-GG.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/IMG_0223.PNG" alt="Alt text" title="Optional title"/>
 </div>
 
 <br/>
