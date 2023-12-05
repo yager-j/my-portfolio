@@ -4,7 +4,7 @@ I'm an iOS developer with a linguistics background. I'm passionate about using t
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yager-j&exclude_repo=jahai-vs-jedek,Models-of-linguistic-convergence-in-a-hunter-gatherer-community,my-portfoli) 
+![Top Langs](https://github-profile-readme-stats-jtdb.vercel.app/api/top-langs/?username=yager-j&exclude_repo=jahai-vs-jedek,Models-of-linguistic-convergence-in-a-hunter-gatherer-community,my-portfolio) 
 
 <br/>
 
