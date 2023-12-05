@@ -4,7 +4,7 @@ I'm an iOS developer with a linguistics background. I'm passionate about using t
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yager-j&exclude_repo=jahai-vs-jedek,Models-of-linguistic-convergence-in-a-hunter-gatherer-community,my-portfolio) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yager-j&exclude_repo=jahai-vs-jedek,Models-of-linguistic-convergence-in-a-hunter-gatherer-community,my-portfoli) 
 
 <br/>
 
@@ -19,7 +19,7 @@ I'm an iOS developer with a linguistics background. I'm passionate about using t
 # Previous projects
 
 ## Circularity app MVP 
-I am currently building an MVP app for iPhone and iPad, for a circularity startup in Malmö using SwiftUI, VisionKit, Firebase and MVVM.
+I am currently building an MVP app for iPhone and iPad, for a circularity startup in Malmö using SwiftUI, VisionKit, Firebase, ARKit, Async/await and MVVM.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/GG-screen.gif" alt="Alt text" title="Optional title"/>
