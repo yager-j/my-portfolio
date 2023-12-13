@@ -19,7 +19,7 @@ I'm an iOS developer with a linguistics background. I'm passionate about using t
 # Previous projects
 
 ## Circularity app MVP 
-I am currently building an MVP app for iPhone and iPad, for a circularity startup in Malmö using SwiftUI, VisionKit, Firebase, ARKit, Async/await and MVVM.
+MVP native iOS app for iPhone and iPad for a circularity startup in Malmö. SwiftUI, VisionKit, Firebase, ARKit, Async/Await and MVVM.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/IMG_0223.PNG" alt="Alt text" title="Optional title"/>
@@ -33,7 +33,7 @@ I am currently building an MVP app for iPhone and iPad, for a circularity startu
 <br/>
 
 ## Internship at ustwo Nordics
-During my internship at ustwo Nordics I worked as part of a cross-functional product team developing a large-scale live iOS app. I built new features in Swift using SwiftUI, rewrote existing features to use modern Swift technology including SwiftUI, Combine and MVVM, and contributed to app maintenance.
+During my internship at ustwo Nordics I worked as part of a cross-functional product team developing a large-scale production iOS app. I built new features in Swift, rewrote existing features to use modern Swift technology, and contributed to app direction and maintenance. SwiftUI, Combine, Async/Await, GitHub Actions, Custom APIs, MVVM.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/SkeletonScreen.png" alt="Alt text" title="Optional title"/>
@@ -46,7 +46,7 @@ During my internship at ustwo Nordics I worked as part of a cross-functional pro
 <br/>
 
 ## Body Confident Mums
-I created a native iOS app MVP using SwiftUI and Firebase for Australian body positivity organisation The Embrace Collective. The app aims to help mothers relate to their bodies in a positive way using mindfulness and journaling. This was a solo student project completed during my studies.
+Native iOS MVP for Australian body positivity organisation The Embrace Collective. The app aims to help mothers relate to their bodies in a positive way using mindfulness and journaling. This was a solo student project completed during my studies. SwiftUI, Firebase, Speech, AVFoundation, AVKit.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
