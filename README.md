@@ -66,5 +66,6 @@ Native iOS MVP for Australian body positivity organisation The Embrace Collectiv
 # My blog posts
 
 <!-- BLOG-POST-LIST:START -->
+<img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
 - [Automated design token translation with Style Dictionary: A guide](https://medium.com/@joyager/automated-design-token-translation-with-style-dictionary-2a8a3eab7e7c?source=rss-97bdfb24eaa1------2)
 <!-- BLOG-POST-LIST:END -->
