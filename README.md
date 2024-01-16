@@ -4,10 +4,6 @@ I'm an iOS Developer / Product Designer with a linguistics background. I'm passi
 
 <br/>
 
-![Top Langs](https://github-readme-stats-p1zo.vercel.app/api/top-langs/?username=yager-j&count-private=true&exclude_repo=jahai-vs-jedek,Models-of-linguistic-convergence-in-a-hunter-gatherer-community,my-portfolio) 
-
-<br/>
-
 <div>
   <img align="left" alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
   <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
@@ -66,6 +62,6 @@ Native iOS MVP for Australian body positivity organisation The Embrace Collectiv
 # My blog posts
 
 <!-- BLOG-POST-LIST:START -->
-<img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
+<img width=13% src="images/blocks.jpg" alt="Alt text" title="Optional title"/>
 - [Automated design token translation with Style Dictionary: A guide](https://medium.com/@joyager/automated-design-token-translation-with-style-dictionary-2a8a3eab7e7c?source=rss-97bdfb24eaa1------2)
 <!-- BLOG-POST-LIST:END -->
