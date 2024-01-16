@@ -1,6 +1,6 @@
 # 👋     Hello! I'm Jo
 
-I'm an iOS Developer / Product Designer with a linguistics background. I'm passionate about using the latest technologies to write beautifully-functioning, clean code to create impactful user experiences.
+I'm an iOS Developer / Product Designer with a linguistics background. I use the latest iOS technologies to write beautifully-functioning, clean code and create impactful user experiences.
 
 <br/>
 
@@ -61,7 +61,7 @@ Native iOS MVP for Australian body positivity organisation The Embrace Collectiv
 
 # My blog posts
 
+<img width=70% src="images/blocks.jpg" alt="Alt text" title="Optional title"/>
 <!-- BLOG-POST-LIST:START -->
-<img width=13% src="images/blocks.jpg" alt="Alt text" title="Optional title"/>
 - [Automated design token translation with Style Dictionary: A guide](https://medium.com/@joyager/automated-design-token-translation-with-style-dictionary-2a8a3eab7e7c?source=rss-97bdfb24eaa1------2)
 <!-- BLOG-POST-LIST:END -->
