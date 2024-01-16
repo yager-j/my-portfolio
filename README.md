@@ -14,8 +14,8 @@ I'm an iOS developer / product designer with a linguistics background. I love to
 
 # Previous projects
 
-## Circularity app MVP 
-MVP native iOS app for iPhone and iPad for a circularity startup in Malmö. SwiftUI, VisionKit, Firebase, ARKit, Async/Await and MVVM.
+## Circularity app game MVP 
+MVP native iOS app for iPhone and iPad for a sustainability tech game startup in Malmö. SwiftUI, VisionKit, Firebase, ARKit, Async/Await and MVVM.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/IMG_0223.PNG" alt="Alt text" title="Optional title"/>
@@ -28,7 +28,7 @@ MVP native iOS app for iPhone and iPad for a circularity startup in Malmö. Swif
 <br/>
 
 ## Internship at ustwo Nordics
-During my internship at ustwo Nordics I worked as part of a cross-functional product team developing a large-scale production iOS app. I built new features in Swift, rewrote existing features to use modern Swift technology, and contributed to app direction and maintenance. SwiftUI, Combine, Async/Await, GitHub Actions, Custom APIs, MVVM.
+During my internship at ustwo Nordics I worked as part of a cross-functional product team developing a large-scale production iOS app. I built new features in Swift, rewrote code to use modern Swift technology, redesigned app features, and collaborated on app direction and maintenance. SwiftUI, Combine, Async/Await, GitHub Actions, Custom APIs, MVVM.
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/SkeletonScreen.png" alt="Alt text" title="Optional title"/>
