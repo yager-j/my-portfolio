@@ -1,6 +1,6 @@
 # 👋     Hello! I'm Jo
 
-I'm an iOS developer / product designer with a linguistics background. I love to use the latest iOS technologies to write beautifully-functioning, clean code and create impactful user experiences.
+Australian/Swedish iOS developer with a linguistics background. I use the latest iOS technologies to create impactful digital experiences.
 
 <br/>
 
