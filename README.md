@@ -1,4 +1,4 @@
-# 👋     I'm Jo
+# 👋
 
 Australian/Swedish iOS developer with a linguistics background. I use the latest iOS technologies to create impactful digital experiences.
 
