@@ -30,7 +30,7 @@ SwiftUI – VisionKit – Firebase – ARKit – Async/Await – MVVM
 <br/>
 
 ## Internship at ustwo Nordics
-As part of a cross-functional product team I built new features in Swift, rewrote code to use modern Swift technology, redesigned app features, and contributed to code maintenance. This is just one of the features I worked on.
+As part of a cross-functional product team I built new features in Swift, rewrote code to use modern Swift technology, redesigned app features, and contributed to code maintenance. This is one example of the features I worked on.
 
 SwiftUI – Combine – Async/Await – GitHub Actions – MVVM
 
