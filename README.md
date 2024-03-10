@@ -15,7 +15,7 @@ Australian/Swedish iOS developer with a linguistics background. I use the latest
 # Previous projects
 
 ## Circularity app game MVP 
-As sole iOS developer for a sustainability tech startup in Malmö I architected and built a native iOS app from scratch for iPhone and iPad. 
+As the sole iOS developer for a sustainability tech startup in Malmö I architected and built a native iOS app MVP for iPhone and iPad. 
 
 SwiftUI – VisionKit – Firebase – ARKit – Async/Await – MVVM
 
@@ -30,7 +30,7 @@ SwiftUI – VisionKit – Firebase – ARKit – Async/Await – MVVM
 <br/>
 
 ## Internship at ustwo Nordics
-As part of a cross-functional product team I built new features in Swift, rewrote code to use modern Swift technology, redesigned app features, and contributed to code maintenance.
+As part of a cross-functional product team I built new features in Swift, rewrote code to use modern Swift technology, redesigned app features, and contributed to code maintenance. This is just one of the features I worked on.
 
 SwiftUI – Combine – Async/Await – GitHub Actions – MVVM
 
@@ -45,7 +45,7 @@ SwiftUI – Combine – Async/Await – GitHub Actions – MVVM
 <br/>
 
 ## Body Confident Mums
-As sole iOS developer collaborating with Australian body positivity organisation The Embrace Collective, I architected and built a native iOS app from scratch. This was a solo project completed during my iOS Development studies.
+In collaboration with Australian body positivity organisation The Embrace Collective, I architected and built a native iOS app MVP. This was a solo project completed during my App Development studies.
 
 SwiftUI – Firebase – Speech – AVFoundation – AVKit
 
