@@ -23,7 +23,9 @@ SwiftUI – VisionKit – Firebase – ARKit – Async/Await – MVVM
   <img width=13% src="images/Falling-toys-GG.gif" alt="Alt text" title="Optional title"/>
   &nbsp;&nbsp;&nbsp;
   <img width=13% src="images/GG-AR.gif" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
   <img width=13% src="images/GG-scan.gif" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
   <img width=13% src="images/IMG_0223.PNG" alt="Alt text" title="Optional title"/>
 </div>
 
@@ -36,9 +38,12 @@ As part of a cross-functional product team I built new features in Swift, rewrot
 SwiftUI – Combine – Async/Await – GitHub Actions – MVVM
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
-  <img style="margin-right: 12px;" width=13% src="images/SkeletonScreen.png" alt="Alt text" title="Optional title"/>
-  <img style="margin-right: 12px;" width=13% src="images/YourMileage.png" alt="Alt text" title="Optional title"/>
-  <img style="margin-right: 12px;" width=13% src="images/MilageInput.png" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/SkeletonScreen.png" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
+  <img width=13% src="images/YourMileage.png" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
+  <img width=13% src="images/MilageInput.png" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
   <img width=13% src="images/Success.png" alt="Alt text" title="Optional title"/>
 </div>
 
@@ -51,12 +56,18 @@ In collaboration with Australian body positivity organisation The Embrace Collec
 SwiftUI – Firebase – Speech – AVFoundation – AVKit
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
-  <im style="margin-right: 12px;"g width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
-  <img style="margin-right: 12px;" width=13% src="images/Listen10minRecordings.png" alt="Alt text" title="Optional title"/>
-  <img style="margin-right: 12px;" width=13% src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-  <img style="margin-right: 12px;" width=13% src="images/JournalTabCategories.png" alt="Alt text" title="Optional title"/>
-  <img style="margin-right: 12px;" width=13% src="images/JournalPromptsBeThankful.png" alt="Alt text" title="Optional title"/>
-  <img style="margin-right: 12px;" width=13% src="images/JournalingSpeechToText-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
+  <img width=13% src="images/Listen10minRecordings.png" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
+  <img width=13% src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
+  <img width=13% src="images/JournalTabCategories.png" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
+  <img width=13% src="images/JournalPromptsBeThankful.png" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
+  <img width=13% src="images/JournalingSpeechToText-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
+    &nbsp;&nbsp;&nbsp;
   <img width=13% src="images/BeKindChatbot-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
 </div>
 
