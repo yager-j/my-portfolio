@@ -20,9 +20,10 @@ As the sole iOS developer for a sustainability tech startup in Malmö I architec
 SwiftUI – VisionKit – Firebase – ARKit – Async/Await – MVVM
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
-  <img style="margin-right: 100px;" width=13% src="images/Falling-toys-GG.gif" alt="Alt text" title="Optional title"/>
-  <img style="margin-right: 12px;" width=13% src="images/GG-AR.gif" alt="Alt text" title="Optional title"/>
-  <img style="margin-right: 12px;" width=13% src="images/GG-scan.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/Falling-toys-GG.gif" alt="Alt text" title="Optional title"/>
+  &nbsp;&nbsp;&nbsp;
+  <img width=13% src="images/GG-AR.gif" alt="Alt text" title="Optional title"/>
+  <img width=13% src="images/GG-scan.gif" alt="Alt text" title="Optional title"/>
   <img width=13% src="images/IMG_0223.PNG" alt="Alt text" title="Optional title"/>
 </div>
 
