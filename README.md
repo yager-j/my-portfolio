@@ -1,6 +1,6 @@
 # 👋
 
-Australian/Swedish iOS developer with a linguistics background. I use the latest iOS technologies to create impactful digital experiences.
+Australian/Swedish iOS developer with a linguistics background. I'm very passionate about using the latest iOS technologies to create impactful digital experiences.
 
 <br/>
 
