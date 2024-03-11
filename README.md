@@ -57,17 +57,17 @@ SwiftUI – Firebase – Speech – AVFoundation – AVKit
 
 <div style="margin-top:100px; display:flex; column-gap: 100px">
   <img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
   <img width=13% src="images/Listen10minRecordings.png" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
   <img width=13% src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
   <img width=13% src="images/JournalTabCategories.png" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
   <img width=13% src="images/JournalPromptsBeThankful.png" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
   <img width=13% src="images/JournalingSpeechToText-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
   <img width=13% src="images/BeKindChatbot-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
 </div>
 
