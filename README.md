@@ -14,7 +14,7 @@ Australian/Swedish iOS developer with a linguistics background. I'm very passion
 
 # My Portfolio
 
-## My portfolio has moved. It now lives [here](https://yager-j.github.io/portfolio/)
+## My portfolio has moved [here](https://yager-j.github.io/portfolio/)
 
 <br/>
 
