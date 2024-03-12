@@ -12,62 +12,9 @@ Australian/Swedish iOS developer with a linguistics background. I'm very passion
 <br/>
 <br/>
 
-# Previous projects
+# My Portfolio
 
-## Circularity app game MVP 
-As the sole iOS developer for a sustainability tech startup in Malmö I architected and built a native iOS app MVP for iPhone and iPad. 
-
-SwiftUI – VisionKit – Firebase – ARKit – Async/Await – MVVM
-
-<div style="margin-top:100px; display:flex; column-gap: 100px">
-  <img width=13% src="images/Falling-toys-GG.gif" alt="Alt text" title="Optional title"/>
-  &nbsp;&nbsp;&nbsp;
-  <img width=13% src="images/GG-AR.gif" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
-  <img width=13% src="images/GG-scan.gif" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
-  <img width=13% src="images/IMG_0223.PNG" alt="Alt text" title="Optional title"/>
-</div>
-
-<br/>
-<br/>
-
-## Internship at ustwo Nordics
-As part of a cross-functional product team I built new features in Swift, rewrote code to use modern Swift technology, redesigned app features, and contributed to code maintenance. This is one example of a feature I worked on.
-
-SwiftUI – Combine – Async/Await – GitHub Actions – MVVM
-
-<div style="margin-top:100px; display:flex; column-gap: 100px">
-  <img width=13% src="images/SkeletonScreen.png" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
-  <img width=13% src="images/YourMileage.png" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
-  <img width=13% src="images/MilageInput.png" alt="Alt text" title="Optional title"/>
-    &nbsp;&nbsp;&nbsp;
-  <img width=13% src="images/Success.png" alt="Alt text" title="Optional title"/>
-</div>
-
-<br/>
-<br/>
-
-## Body Confident Mums
-In collaboration with Australian body positivity organisation The Embrace Collective, I architected and built a native iOS app MVP. This was a solo project completed during my App Development studies.
-
-SwiftUI – Firebase – Speech – AVFoundation – AVKit
-
-<div style="margin-top:100px; display:flex; column-gap: 100px">
-  <img width=13% src="images/ListenTab.png" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/Listen10minRecordings.png" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/ThankYouBody-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/JournalTabCategories.png" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/JournalPromptsBeThankful.png" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/JournalingSpeechToText-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-  <img width=13% src="images/BeKindChatbot-iPhone14Pro.gif" alt="Alt text" title="Optional title"/>
-</div>
-
-<br/>
-<br/>
-
+## My portfolio has moved. It now lives [here](https://yager-j.github.io/portfolio/)
 
 <br/>
 
