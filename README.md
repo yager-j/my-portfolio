@@ -1,6 +1,4 @@
 
-Australian/Swedish iOS developer with a background in linguistics. I'm very passionate about creating impactful digital experiences using the latest iOS technologies.
-
 ## My portfolio has moved [here](https://yager-j.github.io/portfolio/)
 
 <div>
